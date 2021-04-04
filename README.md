@@ -1,6 +1,7 @@
 # Deep-Learning
 Codes of various deep neural networks
 1) MLFFNN_LS - Multilayer feedforward neural networks for linearly separable data (3 classes) from scratch\
+   Each class contains 500 examples.\
    (Source: https://hackernoon.com/building-a-feedforward-neural-network-from-scratch-in-python-d3526457156b )\
    Number of hidden layers = 2\
    Network configuration:
@@ -13,6 +14,7 @@ Codes of various deep neural networks
   
    step size = 0.005, epochs = 300, accuracy = 100%
 2) MLFFNN_NLS - Multilayer feedforward neural networks for non-linearly separable data (3 classes) from scratch\
+   Each class contains 500 examples.\
    (Source: https://hackernoon.com/building-a-feedforward-neural-network-from-scratch-in-python-d3526457156b )\
    Number of hidden layers = 2\
    Network configuration:
